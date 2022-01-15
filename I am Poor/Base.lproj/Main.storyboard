@@ -35,7 +35,7 @@
                             </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" red="0.0" green="0.43137307363013699" blue="0.36304045376712329" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.65456442636986301" green="0.92936643835616439" blue="0.75042808219178081" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
